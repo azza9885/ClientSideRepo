@@ -1,3 +1,4 @@
 this is a text file, add this part to the line
 this is a newline 1
 this is a new line 2
+this is a new line 3
